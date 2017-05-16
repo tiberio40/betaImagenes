@@ -37,12 +37,15 @@ namespace betaImagenes
             dialog.PhotoSettings.CroppedAspectRatio = aspectRatio;
 
             imagenCamara = await dialog.CaptureFileAsync(CameraCaptureUIMode.Photo);
+            
         }
 
 
         private async void capturaImagen_Click(object sender, RoutedEventArgs e)
         {
             await cameraAsync();
+            capturaImagen.Template.
+            
         }
     }
 }

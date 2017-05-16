@@ -122,7 +122,6 @@ c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\b
 c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\x86\Debug\System.Xml.XDocument.dll
 c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\x86\Debug\System.Xml.XmlDocument.dll
 c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\x86\Debug\System.Xml.XmlSerializer.dll
-c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\obj\x86\Debug\betaImagenes.csprojResolveAssemblyReference.cache
 c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\obj\x86\Debug\App.g.i.cs
 c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\obj\x86\Debug\App.g.cs
 c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\obj\x86\Debug\MainPage.g.i.cs

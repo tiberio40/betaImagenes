@@ -31,13 +31,13 @@
     <AppXManifest Include="c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-05-16T23:04:48.013</Modified>
+      <Modified>2017-05-16T23:14:24.861</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\x86\Debug\betaImagenes.exe">
       <PackagePath>entrypoint\betaImagenes.exe</PackagePath>
-      <Modified>2017-05-16T23:04:46.678</Modified>
+      <Modified>2017-05-16T23:14:23.530</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\frena\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -548,11 +548,11 @@
     <AppxPackagedFile Include="c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-05-16T23:04:47.740</Modified>
+      <Modified>2017-05-16T23:14:24.563</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\x86\Debug\Core\betaImagenes.exe">
       <PackagePath>betaImagenes.exe</PackagePath>
-      <Modified>2017-05-16T23:04:48.010</Modified>
+      <Modified>2017-05-16T23:14:24.858</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

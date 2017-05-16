@@ -99,6 +99,10 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="json\Caption.cs" />
+    <Compile Include="json\Description.cs" />
+    <Compile Include="json\Metadata.cs" />
+    <Compile Include="json\Person.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
