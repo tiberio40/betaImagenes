@@ -1,0 +1,1 @@
+c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\betaImagenes.csproj;arm
