@@ -1,0 +1,63 @@
+﻿<Page
+    x:Class="betaImagenes.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:betaImagenes"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="#e67e22" Padding="5,5,5,10">
+            <TextBlock x:ConnectionId='7' x:Name="hola" Foreground="White" Text="Analizador Malla Vial" HorizontalAlignment="Center" FontSize="16" FontWeight="Bold"></TextBlock>
+        </Grid>
+        <ScrollViewer Grid.Row="1" Background="#2980b9">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" Background="#2980b9" >
+                    <Border BorderThickness="4" BorderBrush="White" VerticalAlignment="Top" Width="250" Margin="0,10,0,10">
+                        <Image x:ConnectionId='6' x:Name="imagenCamaraCapturada" Source="Assets/avatar.png"/>
+                    </Border>
+
+                </Grid>
+                <Grid Grid.Row="1" Background="#2980b9">
+                    <Button x:ConnectionId='5' x:Name="capturaImagen" Width="50"                             HorizontalAlignment="Center">
+                        <Button.Template>
+                            <ControlTemplate x:Name="templateBoton">
+                                <Image x:Name="imagenCamaraCapturada" Source="Assets/camera.png"/>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </Grid>
+                <Grid Grid.Row="2" Background="#2980b9" Padding="0,5,0,5">
+                    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <Button x:ConnectionId='4' x:Name="BotonAnalizar" Content="Analizar Imagen" Foreground="White" Background="#e67e22"  VerticalAlignment="Top"                            />
+                    </Grid>
+                </Grid>
+                <Grid x:ConnectionId='1' x:Name="dinamico" Grid.Row="3" Background="#2980b9">
+                    <Image x:ConnectionId='2' x:Name="imagenCarga" Source="Assets/loading_animation.gif" Width="50" Visibility="Collapsed"/>
+                    <ComboBox x:ConnectionId='3' x:Name="listaCaracteristicas" HorizontalAlignment="Center" Width="200" IsEnabled="False" Visibility="Collapsed"/>
+                </Grid>
+            </Grid>
+        </ScrollViewer>
+
+        <Grid Grid.Row="2" Background="#e67e22" Padding="5,5,5,10">
+            <TextBlock Foreground="White" Text="Version Alpha" HorizontalAlignment="Center" FontSize="16" FontWeight="Bold"></TextBlock>
+        </Grid>
+
+
+
+    </Grid>
+</Page>
+

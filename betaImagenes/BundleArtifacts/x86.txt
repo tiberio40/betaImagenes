@@ -1,0 +1,2 @@
+MainPackage=C:\Users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\x86\Debug\betaImagenes_1.1.3.0_x86_Debug.appx
+SymbolPackage=C:\Users\frena\Documents\betaImagenes_1.1.3.0_Debug_Test\betaImagenes_1.1.3.0_x86_Debug.appxsym

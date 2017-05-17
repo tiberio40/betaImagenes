@@ -211,3 +211,15 @@ c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\o
 c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\obj\ARM\Debug\resources.en-us.resfiles.intermediate
 c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\obj\ARM\Debug\ProjectArchitectures.txt
 c:\users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\obj\ARM\Debug\betaImagenes.csprojResolveAssemblyReference.cache
+C:\Users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\ARM\Debug\Core\ForBundle\AppxManifest.xml
+C:\Users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\ARM\Debug\System.Console.dll
+C:\Users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\ARM\Debug\System.ComponentModel.Primitives.dll
+C:\Users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\ARM\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\bin\ARM\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\obj\ARM\Debug\FxResources.System.Console.SR.resw
+C:\Users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\obj\ARM\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+C:\Users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\obj\ARM\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+C:\Users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\frena\documents\visual studio 2017\Projects\betaImagenes\betaImagenes\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
